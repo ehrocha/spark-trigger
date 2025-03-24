@@ -25,4 +25,4 @@ usbipd attach --wsl --busid 4-3
 
 
 In order to start your BLE project you also need to define Service and characteristics UUID for the Bluetooth device.
-For this you can use the online [uuid generator](https://www.uuidgenerator.net/version4)
+For this you can use the [online uuid generator](https://www.uuidgenerator.net/version4)
